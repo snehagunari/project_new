@@ -1,1 +1,1 @@
-End to end project with project atructure learning
+End to end project with project structure learning
